@@ -16,8 +16,13 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
+    <a href="https://www.loom.com/share/c414820dcd1944e19647e6c690a09702">
+      <p>Simulator - iPhone 15 Pro - 4 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c414820dcd1944e19647e6c690a09702">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c414820dcd1944e19647e6c690a09702-with-play.gif">
-  </div>
+    </a>
+</div>
 
 ## App Brainstorming (Step 4)
 Youtube
